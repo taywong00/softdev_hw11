@@ -1,0 +1,33 @@
+h1 {
+  text-transform: uppercase;
+  margin-top: 100px;
+  font-family: cursive;
+  text-align: center;
+  letter-spacing: 5px;
+
+}
+
+h2 {
+  color: dodgerblue;
+  font-family:fantasy;
+  font-style: oblique;
+}
+
+h3 {
+  padding-right: 30px;
+  font-family:inherit;
+  font-style: italic;
+}
+
+ul {
+  text-decoration: overline;
+  font-family:monospace;
+  list-style-type: circle;
+}
+
+body{
+  background-color: rgb(192, 229, 215);
+  font-family: sans-serif;
+  font-style: italic;
+
+}

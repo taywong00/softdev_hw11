@@ -1,0 +1,32 @@
+h1 {
+  color: rgb(255, 165, 0);
+  font: Raleway;
+  font-family: cursive;
+  text-align: center;
+  letter-spacing: 5px;
+
+}
+
+h2 {
+  color: tomato;
+  font-family:fantasy;
+  font-style: oblique;
+}
+
+h3 {
+  color: rgb(111, 99, 71);
+  font-family:inherit;
+  font-style: italic;
+}
+
+ul {
+  color: rgb(11, 218, 181);
+  font-family:monospace;
+}
+
+body{
+  background-color: rgb(255, 242, 239);
+  font-family: sans-serif;
+  font-style: italic;
+
+}
