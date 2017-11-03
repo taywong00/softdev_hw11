@@ -5,7 +5,7 @@ h1 {
   letter-spacing: 5px;
   text-shadow: 2px 2px #000000;
   border: 10px dotted #7A9E9F;
-
+  font-style: italic;
 
 }
 
@@ -27,6 +27,7 @@ ul {
 a:hover {
   border: 2px solid #C1B098;
   font-size: 20px;
+  font-family: "Comic Sans MS";
 }
 
 a:link {
